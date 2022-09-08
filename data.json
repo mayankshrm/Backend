@@ -1,0 +1,254 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "car": "Alto-k10",
+            "company" : "Maruti",
+            "engine_type": "K10C-petrol",
+            "car_model_year": 2002,
+            "car_mileage": "24.39 kmpl",
+            "price": "Rs.5,48,921",
+            "availability": false
+        },
+        {
+            "id": 2,
+            "car": "Wagon R",
+            "company" : "Maruti",
+            "engine_type": "K10C-petrol",
+            "car_model_year": 2008,
+            "car_mileage": "24.35 kmpl",
+            "price": "Rs.6,47,789",
+            "availability": false
+        },
+        {
+            "id": 3,
+            "car": "Swift",
+            "company" : "Maruti",
+            "engine_type": "K Series",
+            "car_model_year": 2003,
+            "car_mileage": "23.2 kmpl",
+            "price": "Rs.7,71,847",
+            "availability": true
+        },
+        {
+            "id": 4,
+            "car": "Compass",
+            "company" : "Jeep",
+            "engine_type": "2.0L disel",
+            "car_model_year": 2012,
+            "car_mileage": "17.1 kmpl",
+            "price": "Rs.24,91,240",
+            "availability": false
+        },
+        {
+            "id": 5,
+            "car": "Audi-A6",
+            "company" : "Audi",
+            "engine_type": "In Line",
+            "car_model_year": 2002,
+            "car_mileage": "14.11 kmpl",
+            "price": "Rs.69,77,166",
+            "availability": false
+        },
+        {
+            "id": 6,
+            "car": "Suburban",
+            "company" : "Chevrolet",
+            "engine_type": "2.0l-petrol",
+            "car_model_year": 2009,
+            "car_mileage": "15.6 kmpl",
+            "price": "Rs.56,77,166",
+            "availability": false
+        },
+        {
+            "id": 7,
+            "car": "seltos",
+            "company" : "Kia",
+            "engine_type": "1.2L i-CNG",
+            "car_model_year": 1994,
+            "car_mileage": "21.6 kmpl",
+            "price": "Rs.20,75,156",
+            "availability": true
+        },
+        {
+            "id": 8,
+            "car": "Ascender",
+            "company" : "Isuzu",
+            "engine_type": "1.2L i-CNG",
+            "car_model_year": 2004,
+            "car_mileage": "11.54 kmpl",
+            "price": "Rs.14,75,156",
+            "availability": true
+        },
+        {
+            "id": 9,
+            "car": "BMW 6-Series",
+            "company" : "BMW",
+            "engine_type": "2.0L disel",
+            "car_model_year": 2008,
+            "car_mileage": "10.5 kmpl",
+            "price": "Rs 1.2cr",
+            "availability": true
+        },
+        {
+            "id": 10,
+            "car": "Nexon",
+            "company" : "TATA",
+            "engine_type": "2.0L disel",
+            "car_model_year": 1994,
+            "car_mileage": "20.74 kmpl",
+            "price": "Rs.6,77,166",
+            "availability": false
+        },
+        {
+            "id": 11,
+            "car": "Brezza",
+            "company" : "Maruti",
+            "engine_type": "dual-V",
+            "car_model_year": 2010,
+            "car_mileage": "36.4 kmpl",
+            "price": "Rs.16,77,166",
+            "availability": true
+        },
+        {
+            "id": 12,
+            "car": "Audi-Q7",
+            "company" : "Audi",
+            "engine_type": "2.0L disel",
+            "car_model_year": 2012,
+            "car_mileage": "9.35 kmpl",
+            "price": "Rs.60,77,156",
+            "availability": true
+        },
+        {
+            "id": 13,
+            "car": "Merc SL-Class",
+            "company" : "Mercedes-Benz",
+            "engine_type": "2.0L disel",
+            "car_model_year": 1989,
+            "car_mileage": "13.78 kmpl",
+            "price": "Rs.64,44,133",
+            "availability": true
+        },
+        {
+            "id": 14,
+            "car": "C70",
+            "company" : "Volvo",
+            "engine_type": "dual-V",
+            "car_model_year": 2012,
+            "car_mileage": "20.2 kmpl",
+            "price": "Rs.24,44,133",
+            "availability": true
+        },
+        {
+            "id": 15,
+            "car": "THAR",
+            "company" : "Mahindra",
+            "engine_type": "dual-V",
+            "car_model_year": 2006,
+            "car_mileage": "7.50 kmpl",
+            "price": "Rs.24,44,133",
+            "availability": false
+        },
+        {
+            "id": 16,
+            "car": "Sonet",
+            "company" : "kia",
+            "engine_type": "2.0l-petrol",
+            "car_model_year": 1996,
+            "car_mileage": "9.45 kmpl",
+            "price": "Rs.24,44,133",
+            "availability": true
+        },
+        {
+            "id": 17,
+            "car": "Baleno",
+            "company" : "Maruti",
+            "engine_type": "K10C-petrol",
+            "car_model_year": 2003,
+            "car_mileage": "29.69 kmpl",
+            "price": "Rs.24,44,133",
+            "availability": true
+        },
+        {
+            "id": 18,
+            "car": "X5 M",
+            "company" : "BMW",
+            "engine_type": "dual-V",
+            "car_model_year": 2012,
+            "car_mileage": "15.43 kmpl",
+            "price": "Rs.24,44,133",
+            "availability": true
+        },
+        {
+            "id": 19,
+            "car": "XUV700",
+            "company" : "Mahindra",
+            "engine_type": "K10C-petrol",
+            "car_model_year": 1999,
+            "car_mileage": "26.6 kmpl",
+            "price": "Rs.22,33,122",
+            "availability": true
+        },
+        {
+            "id": 20,
+            "car": "CRETA",
+            "company" : "Hyundai",
+            "engine_type": "2.0L disel",
+            "car_model_year": 2002,
+            "car_mileage": "10.78 kmpl",
+            "price": "Rs.8,44,133",
+            "availability": false
+        },
+        {
+            "id": 21,
+            "car": "Swift",
+            "company" : "Suzuki",
+            "engine_type": "dual-V",
+            "car_model_year": 1996,
+            "car_mileage": "20.67 kmpl",
+            "price": "Rs.17,65,153",
+            "availability": true
+        },
+        {
+            "id": 22,
+            "car": "i20",
+            "company" : "Hyundai",
+            "engine_type": "1.2L i-CNG",
+            "car_model_year": 2010,
+            "car_mileage": "12.50 kmpl",
+            "price": "Rs.19,20,187",
+            "availability": false
+        },
+        {
+            "id": 23,
+            "car": "Maserati",
+            "company" : "",
+            "engine_type": "2.0L disel",
+            "car_model_year": 1991,
+            "car_mileage": "18.90 kmpl",
+            "price": "Rs.18,44,133",
+            "availability": false
+        },
+        {
+            "id": 24,
+            "car": "Corolis", 
+            "company" : "Toyota",
+            "engine_type": "dual-V",
+            "car_model_year": 1996,
+            "car_mileage": "22.3 kmpl",
+            "price": "Rs.12,82,671",
+            "availability": false
+        },
+        {
+            "id": 25,
+            "car": "POLO",
+            "company" : "Volkswagen",
+            "engine_type": "1.2L i-CNG",
+            "car_model_year": 2000,
+            "car_mileage": "27.45 kmpl",
+            "price": "Rs.14,65,131",
+            "availability": true
+        }
+    ]
+}
